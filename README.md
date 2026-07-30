@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aishh-15/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/Aishh-15/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Aishh-15/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/Aishh-15/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Aishh-15/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Sliding Window
