@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aishh-15/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/Aishh-15/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2578-split-with-minimum-sum](https://github.com/Aishh-15/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Aishh-15/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aishh-15/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/Aishh-15/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Aishh-15/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Stack
 |  |
 | ------- |
