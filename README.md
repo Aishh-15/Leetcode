@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aishh-15/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aishh-15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aishh-15/Leetcode/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/Aishh-15/Leetcode/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Aishh-15/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aishh-15/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
