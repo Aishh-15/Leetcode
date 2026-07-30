@@ -51,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aishh-15/Leetcode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/Aishh-15/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Aishh-15/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
