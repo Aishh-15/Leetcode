@@ -21,10 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aishh-15/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Aishh-15/Leetcode/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aishh-15/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Aishh-15/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aishh-15/Leetcode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Aishh-15/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
