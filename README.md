@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aishh-15/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aishh-15/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aishh-15/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aishh-15/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
