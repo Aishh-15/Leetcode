@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aishh-15/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/Aishh-15/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aishh-15/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
