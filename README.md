@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aishh-15/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Aishh-15/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aishh-15/Leetcode/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aishh-15/Leetcode/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aishh-15/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
