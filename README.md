@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aishh-15/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aishh-15/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Aishh-15/Leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aishh-15/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Aishh-15/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1486-xor-operation-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aishh-15/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/Aishh-15/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2578-split-with-minimum-sum](https://github.com/Aishh-15/Leetcode/tree/master/2578-split-with-minimum-sum) |
