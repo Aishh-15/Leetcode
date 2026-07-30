@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aishh-15/Leetcode/tree/master/0724-find-pivot-index) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aishh-15/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aishh-15/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Aishh-15/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aishh-15/Leetcode/tree/master/0067-add-binary) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Aishh-15/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aishh-15/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
