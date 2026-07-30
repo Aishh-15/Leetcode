@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aishh-15/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Aishh-15/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2469-convert-the-temperature](https://github.com/Aishh-15/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Sliding Window
 |  |
 | ------- |
