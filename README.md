@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aishh-15/Leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/Aishh-15/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aishh-15/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aishh-15/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
