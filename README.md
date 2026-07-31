@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Aishh-15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aishh-15/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Aishh-15/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Aishh-15/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Aishh-15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aishh-15/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aishh-15/Leetcode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Aishh-15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Aishh-15/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
