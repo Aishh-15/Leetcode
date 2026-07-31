@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aishh-15/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aishh-15/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Aishh-15/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aishh-15/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aishh-15/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aishh-15/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aishh-15/Leetcode/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aishh-15/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aishh-15/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aishh-15/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
