@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aishh-15/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Aishh-15/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Aishh-15/Leetcode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/Aishh-15/Leetcode/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
