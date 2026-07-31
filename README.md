@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aishh-15/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aishh-15/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Aishh-15/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aishh-15/Leetcode/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Aishh-15/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
