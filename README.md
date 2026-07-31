@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aishh-15/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aishh-15/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/Aishh-15/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aishh-15/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aishh-15/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aishh-15/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aishh-15/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Aishh-15/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Aishh-15/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aishh-15/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aishh-15/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aishh-15/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Aishh-15/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
