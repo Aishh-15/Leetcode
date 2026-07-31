@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aishh-15/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Aishh-15/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Aishh-15/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Aishh-15/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishh-15/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Aishh-15/Leetcode/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
