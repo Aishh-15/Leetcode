@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/Aishh-15/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Aishh-15/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aishh-15/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aishh-15/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aishh-15/Leetcode/tree/master/0020-valid-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aishh-15/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Aishh-15/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aishh-15/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aishh-15/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
