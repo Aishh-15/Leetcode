@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aishh-15/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Aishh-15/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Aishh-15/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aishh-15/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aishh-15/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Aishh-15/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Aishh-15/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
