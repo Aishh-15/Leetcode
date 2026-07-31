@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aishh-15/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aishh-15/Leetcode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Aishh-15/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Aishh-15/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Aishh-15/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/Aishh-15/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Aishh-15/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishh-15/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aishh-15/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Aishh-15/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aishh-15/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
