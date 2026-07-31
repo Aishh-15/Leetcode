@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Aishh-15/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aishh-15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Aishh-15/Leetcode/tree/master/0832-flipping-an-image) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Aishh-15/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Aishh-15/Leetcode/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aishh-15/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Aishh-15/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Aishh-15/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aishh-15/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Aishh-15/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aishh-15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Aishh-15/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/Aishh-15/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aishh-15/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Aishh-15/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aishh-15/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Aishh-15/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Aishh-15/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Aishh-15/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Aishh-15/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Aishh-15/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Aishh-15/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
