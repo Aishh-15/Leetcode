@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Aishh-15/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Aishh-15/Leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aishh-15/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/Aishh-15/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Aishh-15/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aishh-15/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aishh-15/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishh-15/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aishh-15/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/Aishh-15/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/Aishh-15/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aishh-15/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Aishh-15/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Aishh-15/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Aishh-15/Leetcode/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/Aishh-15/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1748-sum-of-unique-elements](https://github.com/Aishh-15/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aishh-15/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Aishh-15/Leetcode/tree/master/2418-sort-the-people) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aishh-15/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Aishh-15/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Aishh-15/Leetcode/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Aishh-15/Leetcode/tree/master/0888-fair-candy-swap) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aishh-15/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aishh-15/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
